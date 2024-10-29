@@ -1,3 +1,3 @@
-hello world! Here I am, hello. let's create a conflict.
+hello world! Here I am, hello. conflict resolved.
 
 Again
